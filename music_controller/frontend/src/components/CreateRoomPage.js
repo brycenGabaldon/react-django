@@ -112,7 +112,7 @@ export default class CreateRoomPage extends Component {
         </Grid>
         <Grid item xs={12} align="center">
           <Button color="secondary" variant="contained" to="/" component={Link}>
-            Back
+            hello
           </Button>
         </Grid>
       </Grid>

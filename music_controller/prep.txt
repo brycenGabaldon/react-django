@@ -1,0 +1,51 @@
+--Introductionn
+
+My name is Brycen Gabaldon. I have more than 7 years of experience in Web & Blockchain.
+I majored in computer science at the Hong Kong University and got B.D. in Computer Science.
+After graduation, I got hired by Chatter Design, as a frontend developer and there started my work experience.
+
+In the company I was a team member of developing the company's website, I grew my web development skills and learned many new things related to frontend building.
+
+After over one year, I moved to AADigital which is bigger and more professional company.
+There we built real estate websites and eCommerce for several companies and maintenance sites and revamped web applications and developed user-friendly websites.
+We developed websites using Mern stack and I also became familiar with cloud services like AWS EC2, S3 Lambda and databases, both sql and no sql databases.
+Although my contribution was not so splendid, the main point was I got to know how a huge web application is developed, how to design the platform, architecture, database, how to distribute roles, how to handle collaboration and so on.
+
+After about 2years, I noticed that blockchain has become one of the main trends in development. So I decided to acquire some comprehension about blockchain and learned by reading docs and making simple projects with the help of tutorial videos. After I acquired enough knowledge, I started taking up projects.
+
+Especailly, I got hired by some blockchain companies and built some big blockchain applications such as NFT marketplace, and Dex Defi platforms.
+
+Regarding my tech skills, I use React, Next, TypeScript, Tailwind for frontend and Node, Express, Nest, and PHP, Python frameworks for backend, Solidity, web3.js, ethers.js for blockchain.
+
+After I quited my last job, I worked as a freelancer have been working for blockchain projects.
+
+
+--Last Position
+
+In my last position, I worked as lead developer, smart contract engineer at Brange Finance.
+We mainly built auto-staking system on Binance Smart Chain there.
+We made a utility & governance token called Brange and it has unique functionality that someone with this token can get rewards.
+Beside this platform, we also built Dex &  Defi platforms and cryto analysis platform.
+I wored as a lead developer and smart contract engineer. It was fully remote role. Our team has 6-8 members.
+In the morning, I had a call with CTO and some clients to clarify the requirements, and then I had stand-up meeting with developers to assign tickets to them. Then I had some one-to-one talk with developers or did some smart contract work. At the end of the day I had to have wrap-up meeting, check up and review the progress.
+Brange finance was agency to provide web3 solutions, My contract was finished at August last year. After then, I have been working as a freelancer.
+
+
+--About Jumy (the position prior to Brange)
+
+Their main project was NFT marketplace and I worked as Full Stack Smart contract engineer at Jumy.
+Out team was about 12members and I was responsible for building some components and writing some marketplace contracts.
+
+
+--About blockchain Skills
+
+Smart contract for EVM chains, I use Solidity 4years of experience
+
+Use frameworks like Hardhat, openzeppelin for Smart contract development.
+Use Mocha, Chai for testing.
+
+Wrote smart contracts for NFT minting staking marketplace, Dex, Defi, staking farming, Utility, Governance tokens, P2E game.
+
+For web3 integration, use web3.js, ethers.js.
+
+I also have experience for Solana, Rust.
